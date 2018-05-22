@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adcolony-sdk-3.1.2/adcolony-sdk-3.1.2.iml" filepath="$PROJECT_DIR$/adcolony-sdk-3.1.2/adcolony-sdk-3.1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ftslight.iml" filepath="$PROJECT_DIR$/ftslight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmedia-6.4.0/mmedia-6.4.0.iml" filepath="$PROJECT_DIR$/mmedia-6.4.0/mmedia-6.4.0.iml" />
+    </modules>
+  </component>
+</project>
